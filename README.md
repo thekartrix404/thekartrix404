@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthik%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Intern%20Candidate%20%7C%20Fullstack%20%2B%20AI%20Systems&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthik%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20%2B%20AI%20Systems%20Developer&descAlignY=62&descSize=16" />
 
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/thekartrix404" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:karthikkumaran1621@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+scalable+%2B+AI-integrated+systems;Python+%7C+C%2B%2B+%7C+React+%7C+Django;DSA+enthusiast+%7C+100%2B+problems+solved;Open+to+SWE+Internships+%E2%80%94+Summer+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+scalable+%2B+AI-integrated+systems;Python+%7C+C%2B%2B+%7C+React+%7C+Django;DSA+enthusiast+%7C+100%2B+problems+solved;Always+exploring+new+tech" alt="Typing SVG" />
 
 </div>
 
@@ -22,21 +22,24 @@ class Karthik:
     def __init__(self):
         self.name = "Karthik K"
         self.location = "Vellore, India"
-        self.degree = "B.Tech CSE (AI & ML), SRM Institute of Science and Technology"
-        self.role = "Candidate — Software Engineering Intern, Summer 2027"
+        self.degree = "B.Tech CSE (AI & ML)"
+        self.college = "SRM Institute of Science and Technology"
 
         self.stack = [
             "Python", "C++", "C", "Java",
-            "React (Vite)", "Django", "Node.js",
-            "FastAPI", "Tailwind CSS", "Bootstrap"
+            "React (Vite)", "Django",
+            "Node.js", "FastAPI",
+            "Tailwind CSS", "Bootstrap"
         ]
 
         self.currently_exploring = [
-            "Distributed Systems", "Concurrency",
-            "Multi-agent LLM architectures", "Vector databases (RAG)"
+            "Distributed Systems",
+            "Concurrency",
+            "Multi-agent LLM architectures",
+            "Vector databases (RAG)"
         ]
 
-        self.fun_fact = "Solved 100+ DSA problems in C++ chasing optimal time & space complexity"
+        self.fun_fact = "Solved 100+ DSA problems in C++"
 
     def motto(self):
         return "Build it scalable, build it once."
