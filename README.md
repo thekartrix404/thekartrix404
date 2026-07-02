@@ -217,3 +217,15 @@ print(me.motto())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thekartrix404/thekartrix404/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thekartrix404/thekartrix404/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
